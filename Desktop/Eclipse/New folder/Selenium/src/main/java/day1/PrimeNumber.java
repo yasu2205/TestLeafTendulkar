@@ -7,7 +7,7 @@ try{
 	System.out.println("Enter an Integer");
 	Scanner Prime = new Scanner(System.in);
 	n = Prime.nextInt();
-	if((n>=30 && n<=45))
+	if((n>=31 && n<=45))
 	{
 		PrimeCalc(n);
 	}
